@@ -1,6 +1,7 @@
 {
   "private": true,
   "scripts": {
+    "ts-check": "tsc",
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
